@@ -1,0 +1,20 @@
+1.When create Rdweb connection with Exit on Disconnect checkbox check and Connection Ending Option as Reconnect ...Then connection fails to reconnect first time..it get reconnect second time
+
+2.when disconnect connection from Desktop fails to perform connection ending option.(but Desktop remain open in menu bar)
+
+3.on Disconnecting from start menu/Desktop icon it show Reconnecting window but Desktop remain open in menu bar
+
+4."When nla is enable on server and disable on image side,on launching connection it  Fails to show error message of HYBRID
+"
+5.When we launch RDWeb connection on start from user interface then after disconnecting/logoff connection by entering credential in local login window control center fails to invoke
+
+6.Windows Key Bindings Fails to work in session.
+
+7.Timezone fails to redirect inside the session.
+
+8.CTRL+F2 not working in session.
+
+
+9."In RDWeb On Local login window @ and \ characters are fails to save if we type inside connection.
+
+"
